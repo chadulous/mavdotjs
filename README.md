@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some pygame games
 - 📫 How to reach me EMAIL: chadf@mavdev55.cf
-
+- Dont try to go to                   ^      beacuse it doesnt do anything its just to forward my email :P
 <!---
 maverick-dev-55/maverick-dev-55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
