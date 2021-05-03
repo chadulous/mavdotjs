@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding (obvious),music and, being a youtuber
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some pygame games
-- 📫 How to reach me EMAIL: coding: dev@beatsbylcf.cf music: 247@beatsbylcf.cf youtube: youcanlitteralyputanythinghereaslongasitsnot247ordev@beatsbylcf.cf
-- NOTE: __```when emailing me i will always respond as 247@beatsbylcf.cf```__
+- 📫 How to reach me EMAIL: coding: dev@beatsby.cf music: 247@beatsby.cf youtube: youcanlitteralyputanythinghereaslongasitsnot247ordev@beatsby.cf
+- NOTE: __```when emailing me i will always respond as 247@beatsby.cf```__
 - [ ] this is a test
 - [x] this is not a test
 <!---
