@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maverick-dev-55
 - 👀 I’m interested in coding (obvious) and music
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript and (roblox) lua
 - 📫 How to reach me EMAIL: coding: mail@toxik.cf music: 247@beatsby.cf
 <!---
 maverick-dev-55/maverick-dev-55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
