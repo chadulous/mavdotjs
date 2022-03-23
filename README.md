@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Javascript and (roblox) lua
 - 📫 How to reach me mail@toxik.cf
 
-**\[AD]
- Want good servers with a free $5/month usage? try [railway](https://railway.app?referralCode=ToxikDevs), Ready to upgrade? go to your [account page](https://railway.app/account/billing), Scroll to "Upgrade to Developer Plan", add a valid card and hit upgrade
+**\[AD]  
+ Want good servers with a free $5/month usage? try [railway](https://railway.app?referralCode=ToxikDevs), Ready to upgrade? go to your [account page](https://railway.app/account/billing), Scroll to "Upgrade to Developer Plan", add a valid card and hit upgrade  
  \[\\AD]**
 
 <!---
