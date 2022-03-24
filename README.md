@@ -16,4 +16,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=maverick-dev-55&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-dev-55&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-dev-55&theme=bear)](https://github.com/anuraghazra/github-readme-stats)*  
+
+* i dont code TeX, thats probably all of the pyinstaller files i forgor to gitignore
