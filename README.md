@@ -1,3 +1,5 @@
+# MavTheDev
+
 <div align="left">
  <img alt="MaverickQuill's YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChx6UwGhyuZ_Ctp1xCXmh2A?label=My%20Subscribers&style=for-the-badge">
  <img alt="Cons0r's Github Followers" src="https://img.shields.io/badge/dynamic/json?color=%2392eb92&label=Consor&query=%24.followers&suffix=%20Followers&url=https%3A%2F%2Fapi.github.com%2Forgs%2FCons0r&style=for-the-badge">
@@ -16,7 +18,6 @@
  The plan doesnt do any other charges than to verify the card has money, if your usage goes over $10 you will be charged whatever your extra usage is  
  </details>
 
-- 👋 Hi, I’m @mavthedev
 - 👀 I’m intrested in Svelte(kit) and Javascript
 - I own @cons0r
 
