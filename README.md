@@ -11,14 +11,4 @@
  The plan doesnt do any other charges than to verify the card has money, if your usage goes over $10 you will be charged whatever your extra usage is  
  </details>
 
-<!---
-maverick-dev-55/maverick-dev-55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=mavthdev&show_icons=true&theme=bear&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavethedev&theme=bear&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
-
-i dont code TeX, thats probably all of the *pyinstaller* files i forgor to gitignore
-
-Press <kbd>.</kbd> to open a repo in an online vscode editor (no terminal or debugger tho)
+Tip: Press <kbd>.</kbd> to open a repo in an online vscode editor (no terminal or debugger tho)
