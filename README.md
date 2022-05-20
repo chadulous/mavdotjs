@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @maverick-dev-55
-- 👀 I’m interested in coding (obvious) and music
-- 🌱 I’m currently learning Javascript and (roblox) lua
-- 📫 How to reach me mail@toxik.cf
+- 👋 Hi, I’m @mavthedev
+- 👀 I’m intrested in Svelte(kit) and Javascript
+- I own @cons0r
 
 <details>
  <summary>AD</summary>
