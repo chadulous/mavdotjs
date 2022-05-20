@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @mavthedev
 - 👀 I’m intrested in Svelte(kit) and Javascript
 - I own @cons0r
-<a href="https://app.daily.dev/MaverickQuill"><img src="devcard.svg" width="400" alt="MaverickQuill's Dev Card"/></a>
+<div align="left">
+ <a href="https://app.daily.dev/MaverickQuill">
+      <img 
+      src="devcard.svg" 
+      width="256"
+      align="right" alt="MaverickQuill's Dev Card" />
+ </a>
+</div>
 <details>
  <summary>AD</summary>
  Want good servers with a free $5/month usage? try [railway](https://railway.app?referralCode=ToxikDevs), Ready to upgrade? go to your [account page](https://railway.app/account/billing), Scroll to "Upgrade to Developer Plan", add a valid card and hit upgrade  
