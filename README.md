@@ -1,4 +1,5 @@
 <div align="left">
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChx6UwGhyuZ_Ctp1xCXmh2A?label=My%20Subscribers&style=for-the-badge)
  <a href="https://app.daily.dev/MaverickQuill">
       <img 
       src="devcard.svg" 
