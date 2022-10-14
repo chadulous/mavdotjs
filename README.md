@@ -21,4 +21,4 @@
 - 👀 I’m intrested in Svelte(kit) and Javascript
 - I own @Cons0r
 
-Tip: Press <kbd>.</kbd> to open a repo in an online vscode editor (no terminal or debugger tho)
+Tip: Press <kbd>.</kbd> to open a repo in an online vscode editor
