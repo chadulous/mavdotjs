@@ -1,7 +1,7 @@
 # mavthedev
 
 <div align="left">
- <a href="https://www.youtube.com/channel/UChx6UwGhyuZ_Ctp1xCXmh2A"><img alt="MaverickQuill's YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChx6UwGhyuZ_Ctp1xCXmh2A?label=My%20Subscribers&style=for-the-badge"></a>
+ <a href="https://www.youtube.com/@mavquill"><img alt="MaverickQuill's YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@mavquill?label=My%20Subscribers&style=for-the-badge"></a>
  <a href="https://github.com/Cons0r"><img alt="Cons0r's Github Followers" src="https://img.shields.io/badge/dynamic/json?color=%2392eb92&label=Consor&query=%24.followers&suffix=%20Followers&url=https%3A%2F%2Fapi.github.com%2Forgs%2FCons0r&style=for-the-badge"></a>
  <a href="https://app.daily.dev/MaverickQuill">
       <img 
